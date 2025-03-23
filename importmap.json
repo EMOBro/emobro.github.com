@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "sidebar": "./sidebar.js"
+    }
+}
+
